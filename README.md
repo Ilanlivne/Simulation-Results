@@ -1,2 +1,2 @@
 # Simulation-Results
-Simulation results code for Improved estimators for semi-supervised high-dimensional regression model
+code for generating the simulation results given in tables 1-2 
