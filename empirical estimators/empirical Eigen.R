@@ -186,7 +186,7 @@ sim_fn <- function(setting_param_list){
 #### initial parameters settings
 ######################################
 #availableCores()
-n_cores =72  # my laptop has 8 cores.  Shimrit server has 72. 
+n_cores =72   
 set.seed(1)
 n_simulation = 100
 B=100
